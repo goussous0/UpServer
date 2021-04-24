@@ -37,11 +37,9 @@ A laraverl framework with one page for file upload
 
 
 <h3> To start the server type: </h3>
- <ui>
-  <li>
-    <a> php artisan </a>
-  </li>
-  </ui>
+ <ul>
+    <a> php artisan serve </a>
+  </ul>
 
 
 
