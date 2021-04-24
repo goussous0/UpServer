@@ -1,11 +1,12 @@
 # UpServer
 A laraverl framework with one page for file upload 
 
+<h3> Configure your settings </p>
+<p Make sure you edit the databasename , username , password , and if you want to use in production turn debug off ,or change the host ip and port number   example.env and rename it to .env  </p>
 
-
-<h2> Upload accepts the following files feel free to edit them :</h2>
-<h4> check line 17 in FileUplaod.php </h4>
-<h4> max is 4096 </h4>
+<h3> Upload accepts the following files feel free to edit them :</h3>
+<h5> check line 17 in FileUplaod.php </h5>
+<h5> max is 4096 </h5>
 
 <ui>
   <li>
