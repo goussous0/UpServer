@@ -5,8 +5,7 @@ A laraverl framework with one page for file upload
 <p Make sure you edit the databasename , username , password , and if you want to use in production turn debug off ,or change the host ip and port number   example.env and rename it to .env  </p>
 
 <h3> Upload accepts the following files feel free to edit them :</h3>
-<h5> check line 17 in FileUplaod.php </h5>
-<h5> max is 4096 </h5>
+
 
 <ui>
   <li>
@@ -31,3 +30,10 @@ A laraverl framework with one page for file upload
     pdf
    </li>
 </ui>
+
+<h5> check line 17 in FileUplaod.php </h5>
+<h5> max is 4096 </h5>
+
+
+
+
